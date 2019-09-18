@@ -4,6 +4,10 @@
 
 Take 30 minutes and answer the following questions together with your group. Take turns playing around with the code provided in Pry or IRB.
 
+<p align="center">
+  <img src="https://curriculum-content.s3.amazonaws.com/module-1/discussion-questions/object-orientation-in-ruby/Image_109_%20Cat_Image.png" width="300" alt="happy cat"/>
+</p>
+
 ## Questions
 
 1 . What does the below method return?
