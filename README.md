@@ -1,4 +1,4 @@
-# Week 1, Day 3 Morning Discussion Questions
+# Week 1, Day 2 Morning Discussion Questions
 
 ## Instructions
 
