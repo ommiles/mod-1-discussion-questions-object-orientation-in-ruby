@@ -18,10 +18,12 @@ class Animal
 end
 ```
 
-How would you 
+How would you:
 
-a. Make a new instance of `Animal`?
-b. `puts` out to the terminal, the species of that new `Animal` instance?
+<ol type="a">
+  <li>Make a new instance of `Animal`?</li>
+  <li>`puts` out to the terminal, the species of that new `Animal` instance?</li>
+</ol>
 
 2 . Although we all know that cats are the best species, not all animals are cats (unfortunately). How could you change the `Animal` class so that an instance of `animal` can have its species set to any species at all?
 
