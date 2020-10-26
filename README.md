@@ -97,4 +97,4 @@ lil_bub = Animal.new("cat")
 
 What is the relationship between `lil_bub` and the `Animal` class? 
 
-<p class='util--hide'>View <a href='https://learn.co/lessons/immersive-week-1-discussion-questions'>Immersive Week 1 Discussion Questions</a> on Learn.co and start learning to code for free.</p>
+
